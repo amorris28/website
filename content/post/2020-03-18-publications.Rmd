@@ -1,0 +1,18 @@
+---
+title: Publications
+author: ''
+date: '2020-03-18'
+slug: publications
+categories: []
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2020-03-18T14:55:42-07:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---

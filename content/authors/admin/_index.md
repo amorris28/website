@@ -36,9 +36,6 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ahmorris1
-- icon: instagram
-  icon_pack: fab
-  link: https://instagram.com/ahmorris1
 superuser: true
 user_groups:
 - Researchers

@@ -24,6 +24,12 @@ organizations:
   url: https://uoregon.edu
 role: NSF GRFP Fellow
 social:
+- icon: envelope
+  icon_pack: fas
+  link: "mailto:amorris3@uoregon.edu"
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/ahmorris1
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=bFq6ZowAAAAJ

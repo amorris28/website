@@ -20,7 +20,7 @@ Meyer KM, **Morris AH**, Webster K, Klein A, Kroegerv ME, Meredith
 LK, Brndholt A, Nakamurat F, Venturinit A, Fonseca de Souzat L, Shek
 KL, Danielson R, van Haren J, Barbosa de Camargot P, Tsait SM, DiniAndreote F, Nsslein K, Saleska SR, Rodrigues JLM, Bohannan BJM (2020)
 Belowground changes to community structure alter methane-cycling dynamics in
-Amazonia. In review at [ISME J.](https://www.nature.com/ismej/)
+Amazonia. In review at [Environ. Int.](https://www.journals.elsevier.com/environment-international)
 
 #### In Prep
 

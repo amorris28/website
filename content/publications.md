@@ -50,6 +50,6 @@ doi: [10.1021/acs.jafc.6b01201](https://doi.org/10.1021/acs.jafc.6b01201)
 
 **Morris AH** (2017) Mitigating nitrogen pollution by interseeding 
 cover crops into spelt.  MS thesis, Department of Ecosystem Science and Management,
-Penn State University, State College
+Penn State University, State College, PA
 [Abstract](https://etda.libraries.psu.edu/catalog/13839ajm6718)
 [pdf (653k)](https://etda.libraries.psu.edu/files/final_submissions/13973)

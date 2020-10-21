@@ -6,10 +6,15 @@
 [[main]]
   name = "Publications"
   url = "/publications"
-  weight = 20
+  weight = 10
   
 [[main]]
   name = "CV"
   url = "files/Morris_CV.pdf"
+  weight = 20
+
+[[main]]
+  name = "Guides"
+  url = "/guides/"
   weight = 30
 

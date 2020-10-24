@@ -12,9 +12,3 @@
   name = "CV"
   url = "files/Morris_CV.pdf"
   weight = 20
-
-[[main]]
-  name = "Guides"
-  url = "/guides/"
-  weight = 30
-

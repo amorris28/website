@@ -46,7 +46,7 @@ crop mixtures in winter cereals. In review at [J. Environ. Qual.](https://dl.sci
 
 #### In Prep
 
-**Morris AH**, Bohannan BJM Artificial ecosystem selection on soil methane oxidation reveals complex mapping between microbial community structure and ecosystem function.
+**Morris AH**, Bohannan BJM Artificial ecosystem selection on soil methane oxidation to understand the mapping between microbial community structure and ecosystem function.
 
 ### Thesis
 

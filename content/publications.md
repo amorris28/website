@@ -4,7 +4,7 @@ title: Publications
 description: Andrew Morris' publications
 ---
 
-### Journal Articles
+## Journal Articles
 
 #### 2020
 
@@ -26,7 +26,9 @@ Soil-incorporation of silica-rich rice husk decreases inorganic As in rice grain
 [J. Agric. Food Chem.](https://pubs.acs.org/journal/jafcau) 64(19):3760-3766
 doi: [10.1021/acs.jafc.6b01201](https://doi.org/10.1021/acs.jafc.6b01201)
 
-#### Accepted
+---
+
+### Accepted
 
 Isbell SA, Bradley BA, **Morris AH**, Wallace JM, Kaye JP (2020) Nitrogen
 dynamics in grain cropping systems integrating multiple ecologically based management
@@ -38,17 +40,19 @@ KL, Danielson R, van Haren J, Barbosa de Camargot P, Tsait SM, DiniAndreote F, N
 Belowground changes to community structure alter methane-cycling dynamics in
 Amazonia. In press at [Environ. Int.](https://www.journals.elsevier.com/environment-international)
 
-#### In Review
+### In Review
 
 **Morris AH**, Isbell SA, Saha D, and Kaye JP (2020)
 Mitigating nitrogen pollution with undersown legume-grass cover
 crop mixtures in winter cereals. In review at [J. Environ. Qual.](https://dl.sciencesocieties.org/publications/jeq)
 
-#### In Prep
+### In Prep
 
 **Morris AH**, Bohannan BJM Artificial ecosystem selection on soil methane oxidation to understand the mapping between microbial community structure and ecosystem function.
 
-### Thesis
+---
+
+## Thesis
 
 **Morris AH** (2017) Mitigating nitrogen pollution by interseeding 
 cover crops into spelt.  MS thesis, Department of Ecosystem Science and Management,

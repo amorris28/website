@@ -8,6 +8,13 @@ description: Andrew Morris' publications
 
 #### 2020
 
+Meyer KM, **Morris AH**, Webster K, Klein A, Kroegerv ME, Meredith
+LK, Brndholt A, Nakamurat F, Venturinit A, Fonseca de Souzat L, Shek
+KL, Danielson R, van Haren J, Barbosa de Camargot P, Tsait SM, DiniAndreote F, Nsslein K, Saleska SR, Rodrigues JLM, Bohannan BJM (2020)
+Belowground changes to community structure alter methane-cycling dynamics in
+Amazonia. [Environ. Int.](https://www.journals.elsevier.com/environment-international) 
+doi: [10.1016/j.envint.2020.106131](https://doi.org/10.1016/j.envint.2020.106131)
+
 Meyer KM, Hopple AM, Klein A, **Morris AH**, Bridgham
 SD, Bohannan BJM (2020) Community structure – ecosystem function
 relationships in the Congo Basin methane cycle depend on the physiological
@@ -33,12 +40,6 @@ doi: [10.1021/acs.jafc.6b01201](https://doi.org/10.1021/acs.jafc.6b01201)
 Isbell SA, Bradley BA, **Morris AH**, Wallace JM, Kaye JP (2020) Nitrogen
 dynamics in grain cropping systems integrating multiple ecologically based management
 strategies. In press at [Ecosphere](https://esajournals.onlinelibrary.wiley.com/journal/21508925)
-
-Meyer KM, **Morris AH**, Webster K, Klein A, Kroegerv ME, Meredith
-LK, Brndholt A, Nakamurat F, Venturinit A, Fonseca de Souzat L, Shek
-KL, Danielson R, van Haren J, Barbosa de Camargot P, Tsait SM, DiniAndreote F, Nsslein K, Saleska SR, Rodrigues JLM, Bohannan BJM (2020)
-Belowground changes to community structure alter methane-cycling dynamics in
-Amazonia. In press at [Environ. Int.](https://www.journals.elsevier.com/environment-international)
 
 ### In Review
 

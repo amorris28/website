@@ -37,15 +37,13 @@ doi: [10.1021/acs.jafc.6b01201](https://doi.org/10.1021/acs.jafc.6b01201)
 
 ### Accepted
 
-Isbell SA, Bradley BA, **Morris AH**, Wallace JM, Kaye JP (2020) Nitrogen
+Isbell SA, Bradley BA, **Morris AH**, Wallace JM, Kaye JP  Nitrogen
 dynamics in grain cropping systems integrating multiple ecologically based management
 strategies. In press at [Ecosphere](https://esajournals.onlinelibrary.wiley.com/journal/21508925)
 
-### In Review
-
-**Morris AH**, Isbell SA, Saha D, and Kaye JP (2020)
+**Morris AH**, Isbell SA, Saha D, and Kaye JP 
 Mitigating nitrogen pollution with undersown legume-grass cover
-crop mixtures in winter cereals. In review at [J. Environ. Qual.](https://dl.sciencesocieties.org/publications/jeq)
+crop mixtures in winter cereals. In press at [J. Environ. Qual.](https://dl.sciencesocieties.org/publications/jeq)
 
 ### In Prep
 

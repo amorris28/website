@@ -6,6 +6,17 @@ description: Andrew Morris' publications
 
 ## Journal Articles
 
+#### 2021
+
+**Morris AH**, Isbell SA, Saha D, and Kaye JP 
+Mitigating nitrogen pollution with undersown legume-grass cover
+crop mixtures in winter cereals. In press at [J. Environ. Qual.](https://dl.sciencesocieties.org/publications/jeq)
+doi: [10.1002/jeq2.20193](https://doi.org/10.1002/jeq2.20193)
+
+Isbell SA, Bradley BA, **Morris AH**, Wallace JM, Kaye JP  Nitrogen
+dynamics in grain cropping systems integrating multiple ecologically based management
+strategies. In press at [Ecosphere](https://esajournals.onlinelibrary.wiley.com/journal/21508925)
+
 #### 2020
 
 Meyer KM, **Morris AH**, Webster K, Klein A, Kroegerv ME, Meredith
@@ -32,24 +43,6 @@ Seyfferth AL, **Morris AH**, Gill R, Kearns KA, Mann JN, Paukett M, and Leskanic
 Soil-incorporation of silica-rich rice husk decreases inorganic As in rice grain.
 [J. Agric. Food Chem.](https://pubs.acs.org/journal/jafcau) 64(19):3760-3766
 doi: [10.1021/acs.jafc.6b01201](https://doi.org/10.1021/acs.jafc.6b01201)
-
----
-
-### Accepted
-
-Isbell SA, Bradley BA, **Morris AH**, Wallace JM, Kaye JP  Nitrogen
-dynamics in grain cropping systems integrating multiple ecologically based management
-strategies. In press at [Ecosphere](https://esajournals.onlinelibrary.wiley.com/journal/21508925)
-
-**Morris AH**, Isbell SA, Saha D, and Kaye JP 
-Mitigating nitrogen pollution with undersown legume-grass cover
-crop mixtures in winter cereals. In press at [J. Environ. Qual.](https://dl.sciencesocieties.org/publications/jeq)
-
----
-
-### In Prep
-
-**Morris AH**, Bohannan BJM Artificial ecosystem selection on soil methane oxidation to understand the mapping between microbial community structure and ecosystem function.
 
 ---
 

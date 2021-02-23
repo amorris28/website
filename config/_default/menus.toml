@@ -9,6 +9,11 @@
   weight = 10
   
 [[main]]
-  name = "CV"
+  name = "Academic CV"
   url = "files/Morris_CV.pdf"
+  weight = 20
+
+[[main]]
+  name = "Resume"
+  url = "files/Morris_Resume.pdf"
   weight = 20

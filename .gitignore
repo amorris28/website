@@ -1,3 +1,4 @@
 public/
 resources/
-.Rproj.user
+.Rproj.user/
+.Rhistory

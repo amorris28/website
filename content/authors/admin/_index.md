@@ -6,7 +6,7 @@ education:
   courses:
   - course: PhD in Biology
     institution: University of Oregon
-    year: Expected 2021
+    year: 2022
   - course: MS in Soil Science
     institution: Penn State University
     year: 2017
@@ -45,6 +45,16 @@ user_groups:
 - Visitors
 ---
 
-Andrew Morris is a PhD student in the [Bohannan Lab](https://bohannanlab.org) at the University of Oregon in the Institute of Ecology and Evolution and the Department of Biology. He is an ecosystem and community ecologist who has studied carbon and nitrogen cycling in diverse ecosystems including periglacial ecosystems in Alaska and Peru; corn fields and rice paddies in New York, Pennsylvania, and Delaware; and tropical forests in Brazil and Gabon. His current research is connecting microbial ecology and community ecology to ecosystem nutrient cycles. He wants to understand how the composition and abundance of microorganisms in an ecosystem influence the rate of ecosystem-scale functions. He addresses this problem by drawing on statistical tools from quantitative genetics and experimental approaches from evolutionary biology. 
+Andrew Morris earned his PhD from the University of Oregon where he worked in
+the [Bohannan Lab](https://bohannanlab.org). He is an ecosystem and community
+ecologist who has studied carbon and nitrogen cycling in diverse ecosystems
+including periglacial ecosystems in Alaska and Peru; corn fields and rice
+paddies in New York, Pennsylvania, and Delaware; and tropical forests in Brazil
+and Gabon. His current research is connecting microbial ecology and community
+ecology to ecosystem nutrient cycles. He wants to understand how the
+composition and abundance of microorganisms in an ecosystem influence the rate
+of ecosystem-scale functions. He addresses this problem by drawing on
+statistical tools from quantitative genetics and experimental approaches from
+evolutionary biology. 
 
 Andrew is currently seeking academic and industry positions in ecology, bioinformatics, and data science.

@@ -43,12 +43,12 @@ subtitle = ""
  css_class = ""
 +++
 
-**Morris AH**, Isbell SA, Saha D, and Kaye JP.
+**Morris AH**, Isbell SA, Saha D, and Kaye JP. 2021
 Mitigating nitrogen pollution with undersown legume-grass cover
 crop mixtures in winter cereals. [J. Environ. Qual.](https://dl.sciencesocieties.org/publications/jeq)
 doi: [10.1002/jeq2.20193](https://doi.org/10.1002/jeq2.20193)
 
-Isbell SA, Bradley BA, **Morris AH**, Wallace JM, Kaye JP.  Nitrogen
+Isbell SA, Bradley BA, **Morris AH**, Wallace JM, Kaye JP. 2021 Nitrogen
 dynamics in grain cropping systems integrating multiple ecologically based management
 strategies.  [Ecosphere](https://esajournals.onlinelibrary.wiley.com/journal/21508925)
 doi: [10.1002/jeq2.20193]( https://doi.org/10.1002/ecs2.3380)

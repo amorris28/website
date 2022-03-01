@@ -43,13 +43,12 @@ subtitle = ""
  css_class = ""
 +++
 
-Meyer KM, Hopple AM, Klein A, **Morris AH**, Bridgham
-SD, Bohannan BJM (2020) Community structure – ecosystem function
-relationships in the Congo Basin methane cycle depend on the physiological
-scale of function. [Molecular Ecology](https://onlinelibrary.wiley.com/journal/1365294x) 
-doi: [10.1111/mec.15442](https://doi.org/10.1111/mec.15442)
+**Morris AH**, Isbell SA, Saha D, and Kaye JP.
+Mitigating nitrogen pollution with undersown legume-grass cover
+crop mixtures in winter cereals. [J. Environ. Qual.](https://dl.sciencesocieties.org/publications/jeq)
+doi: [10.1002/jeq2.20193](https://doi.org/10.1002/jeq2.20193)
 
-**Morris AH**, Meyer KM, Bohannan BJM (2020) Linking microbial communities
-to ecosystem functions: what we can learn from genotype-phenotype mapping
-in organisms. [Philos. Trans. Royal Soc. B](https://royalsocietypublishing.org/journal/rstb)
-doi: [10.1098/rstb.2019.0244](https://doi.org/10.1098/rstb.2019.0244)
+Isbell SA, Bradley BA, **Morris AH**, Wallace JM, Kaye JP.  Nitrogen
+dynamics in grain cropping systems integrating multiple ecologically based management
+strategies.  [Ecosphere](https://esajournals.onlinelibrary.wiley.com/journal/21508925)
+doi: [10.1002/jeq2.20193]( https://doi.org/10.1002/ecs2.3380)

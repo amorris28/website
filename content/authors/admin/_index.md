@@ -22,7 +22,7 @@ name: Andrew Morris
 organizations:
 - name: University of Oregon
   url: https://uoregon.edu
-role: NSF GRFP Fellow
+role: Post-doctoral Scholar
 social:
 - icon: envelope
   icon_pack: fas

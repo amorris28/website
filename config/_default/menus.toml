@@ -9,7 +9,7 @@
   weight = 10
   
 [[main]]
-  name = "Academic CV"
+  name = "CV"
   url = "files/Morris_CV.pdf"
   weight = 20
 

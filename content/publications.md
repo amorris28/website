@@ -49,11 +49,16 @@ doi: [10.1021/acs.jafc.6b01201](https://doi.org/10.1021/acs.jafc.6b01201)
 
 ---
 
-## Thesis
+## Thesis & Dissertation
+
+#### 2022
+
+**Andrew H. Morris**. Linking Microbial Community Structure to Ecosystem Function Using Microbiome Association Mapping and Artificial Ecosystem Selection. PhD Dissertation, Department of Biology, University of Oregon, Eugene, OR
+[Full Text](https://scholarsbank.uoregon.edu/xmlui/handle/1794/27154)
 
 #### 2017
 
-**Morris AH**. Mitigating nitrogen pollution by interseeding 
+**Andrew H. Morris**. Mitigating nitrogen pollution by interseeding 
 cover crops into spelt.  MS thesis, Department of Ecosystem Science and Management,
 Penn State University, State College, PA
 [Abstract](https://etda.libraries.psu.edu/catalog/13839ajm6718)

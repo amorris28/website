@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: My research interests include microbial, community, and ecosystem ecology.
+bio: Bioinformatician and microbiome scientist.
 education:
   courses:
   - course: PhD in Biology
@@ -15,7 +15,7 @@ education:
     year: 2014
 email: "amorris3@uoregon.edu"
 interests:
-- Microbial Ecology
+- Microbiome Science
 - Bioinformatics
 - Data Science
 name: Andrew Morris
@@ -45,16 +45,15 @@ user_groups:
 - Visitors
 ---
 
-Andrew Morris earned his PhD from the University of Oregon where he worked in
-the [Bohannan Lab](https://bohannanlab.org). He is an ecosystem and community
-ecologist who has studied carbon and nitrogen cycling in diverse ecosystems
-including periglacial ecosystems in Alaska and Peru; corn fields and rice
-paddies in New York, Pennsylvania, and Delaware; and tropical forests in Brazil
-and Gabon. His current research is connecting microbial ecology and community
-ecology to ecosystem nutrient cycles. He wants to understand how the
-composition and abundance of microorganisms in an ecosystem influence the rate
-of ecosystem-scale functions. He addresses this problem by drawing on
+Andrew Morris earned his PhD from the University of Oregon in 2022 where he
+worked in the [Bohannan Lab](https://bohannanlab.org). He is a microbiome
+scientist and bioinformatician who has studied the role of the microbiome in
+ecosystem functioning. His current research focuses on the heritability of the
+microbiome in humans and animals to understand microbiome-mediated traits.  He
+wants to discover how the composition and abundance of microorganisms in an
+ecosystem influence ecosystem traits. He addresses this problem by drawing on
 statistical tools from quantitative genetics and experimental approaches from
 evolutionary biology. 
 
-Andrew is currently seeking academic and industry positions in ecology, bioinformatics, and data science.
+Andrew is currently seeking industry positions in microbiome science,
+bioinformatics, and data science.

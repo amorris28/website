@@ -6,6 +6,12 @@ description: Andrew Morris' publications
 
 ## Journal Articles
 
+#### In Review
+
+**Morris, AH** and Bohannan, BJM. Artificial ecosystem selection reveals
+relationships between microbiome composition and ecosystem function. in review
+at [ISME Communications](https://www.nature.com/ismecomms/)
+
 #### 2021
 
 **Morris AH**, Isbell SA, Saha D, and Kaye JP.

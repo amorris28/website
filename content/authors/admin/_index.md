@@ -15,7 +15,7 @@ education:
     year: 2014
 email: "amorris3@uoregon.edu"
 interests:
-- Microbiome Science
+- Microbiomes
 - Bioinformatics
 - Data Science
 name: Andrew Morris
@@ -36,9 +36,6 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/andrew-morris-71033a41/
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/ahmorris1
 superuser: true
 user_groups:
 - Researchers
@@ -55,5 +52,5 @@ ecosystem influence ecosystem traits. He addresses this problem by drawing on
 statistical tools from quantitative genetics and experimental approaches from
 evolutionary biology. 
 
-Andrew is currently seeking industry positions in microbiome science,
-bioinformatics, and data science.
+Andrew is currently seeking academic and industry positions in microbiome
+science, bioinformatics, and data science.

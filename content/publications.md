@@ -22,7 +22,7 @@ doi: [10.1002/jeq2.20193](https://doi.org/10.1002/jeq2.20193)
 Isbell SA, Bradley BA, **Morris AH**, Wallace JM, Kaye JP.  Nitrogen
 dynamics in grain cropping systems integrating multiple ecologically based management
 strategies.  [Ecosphere](https://esajournals.onlinelibrary.wiley.com/journal/21508925)
-doi: [10.1002/jeq2.20193]( https://doi.org/10.1002/ecs2.3380)
+doi: [10.1002/ecs2.3380]( https://doi.org/10.1002/ecs2.3380)
 
 #### 2020
 

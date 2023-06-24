@@ -4,13 +4,16 @@ title: Publications
 description: Andrew Morris' publications
 ---
 
+## Pre-prints
+
+#### 2023
+
+**Morris, AH** and Bohannan, BJM. Response of soil microbiome
+composition to selection on methane oxidation rate. Pre-print
+at [bioRxiv](https://www.biorxiv.org/)
+doi: [10.1101/2023.06.23.546315](https://doi.org/10.1101/2023.06.23.546315)
+
 ## Journal Articles
-
-#### In Review
-
-**Morris, AH** and Bohannan, BJM. Artificial ecosystem selection reveals
-relationships between microbiome composition and ecosystem function. in review
-at [ISME Communications](https://www.nature.com/ismecomms/)
 
 #### 2021
 

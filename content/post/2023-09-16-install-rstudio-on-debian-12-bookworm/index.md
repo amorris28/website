@@ -54,4 +54,4 @@ Now, you can enter `dpkg -i rstudio` and then tab complete the rest of the file.
 sudo dpkg -i rstudio-2023.06.2-561-amd64.deb
 ```
 
-That should successfully install RStudio. Now, you can hit the `Super` key and type in "RStudio" to the search bar and it should pop up.
+That should successfully install RStudio. Now, you can hit the `Super` key and type "RStudio" into the search bar and it should pop up.

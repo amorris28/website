@@ -30,7 +30,7 @@ You can find the Talapas knowledge base [here](https://hpcrcf.atlassian.net/wiki
 
 ## Logging in to Talapas
 
-Usde `ssh` to login through the terminal:
+Use `ssh` to login through the terminal, replacing `username` with your Duck ID:
 
 ```{bash}
 ssh username@talapas-login.uoregon.edu
@@ -56,7 +56,7 @@ An example `srun` command:
 srun --account=crobe --pty --partition=short --mem=1024M --time=240 bash
 ```
 
-you must have `--account=crobe` and `--pty` and `bash` in there. The other commands are optional, but let you spectify memory, time, CPUs, etc. Also, these flags (e.g., `--time=240`) are the same as what you would put into a batch script. `--partition=short` is the default type of partition you will use. `--mem=1024M` gives you a gig of RAM/memory and `--time=240` gives you 4 hours of time on the node.
+you must have `--account=`, `--pty`, and `bash` in there. The other commands are optional, but let you specify memory, time, CPUs, etc. Also, these flags (e.g., `--time=240`) are the same as what you would put into a batch script. `--partition=short` is the default type of partition you will use. `--mem=1024M` gives you one gig of RAM/memory and `--time=240` gives you 4 hours of time on the node.
 
 An example batch script:
 

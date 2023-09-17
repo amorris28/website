@@ -1,5 +1,5 @@
 ---
-title: Install RStudio on Debian 12 Bookworm
+title: How to Install RStudio on Debian 12 Bookworm
 author: ''
 date: '2023-09-16'
 slug: []

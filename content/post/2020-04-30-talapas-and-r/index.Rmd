@@ -1,8 +1,20 @@
 ---
-title: "R in Talapas"
-author: "Andrew"
-date: "4/30/2020"
-output: html_document
+title: Talapas and R
+author: ''
+date: '2020-04-30'
+slug: []
+categories: []
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2023-09-16T20:40:07-07:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
 ---
 
 ```{r, include=FALSE}
@@ -245,5 +257,3 @@ If you forget what it's called, it will be at the top of this left:
 ```{bash}
 conda env list
 ```
-
-

@@ -1,6 +1,9 @@
 ---
-authors:
-- admin
+title: Andrew H. Morris
+
+first_name: Andrew
+last_name: Morris
+
 bio: Bioinformatician and microbiome scientist.
 education:
   courses:

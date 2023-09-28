@@ -7,13 +7,13 @@ last_name: Morris
 bio: Bioinformatician and microbiome scientist.
 education:
   courses:
-  - course: PhD in Biology
+  - course: PhD Biology
     institution: University of Oregon
     year: 2022
-  - course: MS in Soil Science
+  - course: MS Soil Science
     institution: Penn State University
     year: 2017
-  - course: BS in Plant Sciences
+  - course: BS Plant Sciences
     institution: Cornell University
     year: 2014
 email: "andrewmorris@mailbox.org"

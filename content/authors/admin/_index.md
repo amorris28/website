@@ -25,7 +25,7 @@ name: Andrew Morris
 organizations:
 - name: University of Oregon
   url: https://uoregon.edu
-role: Computational Biology
+role: Computational Biologist
 social:
 - icon: envelope
   icon_pack: fas

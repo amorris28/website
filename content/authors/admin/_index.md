@@ -16,9 +16,9 @@ education:
   - course: BS in Plant Sciences
     institution: Cornell University
     year: 2014
-email: "amorris3@uoregon.edu"
+email: "andrewmorris@mailbox.org"
 interests:
-- Microbiomes
+- Genomics
 - Bioinformatics
 - Data Science
 name: Andrew Morris
@@ -29,7 +29,7 @@ role: Post-doctoral Scholar
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:amorris3@uoregon.edu"
+  link: "mailto:andrewmorris@mailbox.org"
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=bFq6ZowAAAAJ

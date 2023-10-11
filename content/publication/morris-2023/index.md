@@ -1,0 +1,16 @@
+---
+title: "Response of soil microbiome composition to selection on methane oxidation rate"
+date: 2023-06-23
+publishDate: 2021-06-23
+authors: 
+ - admin
+ - Brendan J. M. Bohannan
+publication_types: ["2"]
+abstract: "Microbiomes mediate important ecosystem functions, yet it has proven difficult to determine the relationship between microbiome composition and the rate of ecosystem functions. This challenge remains because it is difficult to manipulate microbiome composition directly, we often cannot know a priori which microbiome members influence the rate of an ecosystem function, and microbiomes can covary strongly with other drivers of ecosystem function, such as the environment. To address these challenges, we imposed artificial selection on whole soil ecosystems over multiple generations to select for microbial communities with a high rate of CH4 oxidation. This approach is potentially powerful because it is biologically “agnostic” in that it makes few assumptions about which taxa are important to function, and repeated passaging with fresh substrate weakens the covariance between microbes and the environment. As a response to selection, we observed a 50.7% increase in CH4 oxidation rate per passage relative to a control that experienced random selection. We estimated that 31.5% of the variation in CH4 oxidation rate in these soils can be attributed to microbiome variation (though this was not significant). We also found that selection did not enrich for known CH4 oxidizers; instead, 12 families not known to oxidize CH4, including Fimbriimonadaceae, Cytophagaceae, and Diplorickettsiaceae, were enriched by selection. This result is in contrast to the typical assumption that the rate of an ecosystem function is limited by the final step in the associated microbial pathway. Our study demonstrates that variation in microbiome composition can contribute to variation in the rate of ecosystem function independent of the environment and that this may not always be limited by the final step in a pathway. This suggests that manipulating microbiome composition directly without altering the environment could be a viable strategy for managing ecosystem functions."
+featured: false
+image:
+  preview_only: true
+publication: "*bioRxiv*"
+url_pdf: "https://www.biorxiv.org/content/10.1101/2023.06.23.546315v1.full.pdf"
+doi: "https://doi.org/10.1101/2023.06.23.546315 "
+---

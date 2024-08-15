@@ -18,7 +18,7 @@ education:
     year: 2014
 email: "andrewmorris@mailbox.org"
 interests:
-- Community Ecology
+- Biostatistics
 - Bioinformatics
 - Data Science
 name: Andrew Morris
@@ -48,14 +48,27 @@ user_groups:
 - Visitors
 ---
 
-Andrew Morris earned his PhD from the University of Oregon in 2022 where he
-worked in the [Bohannan Lab](https://bohannanlab.org). He is a community
-ecologist and bioinformatician who has studied the role of the microbiome in
-ecosystem functioning. His current research focuses on the heritability of the
-microbiome in humans and animals to understand microbiome-mediated traits.  He
-wants to discover how the composition and abundance of microorganisms in an
-ecosystem influence ecosystem traits. He addresses this problem by drawing on
-statistical tools from quantitative genetics and experimental approaches from
+Andrew Morris is a postdoc in the Centre for Bioinformatics at the University
+of Oslo and a member of the Precision Psychiatry group (formerly NORMENT) at
+the Oslo University Hospital. His current work focuses on using health registry
+data and genotypes to model age of diagnosis in prostate cancer and other
+heritable cancers. This work has applications in precision medicine and
+has the potential to improve early screening and diagnosis for improved
+outcomes for heritable diseases.
+
+Andrew was formerly a postdoc at the University of Oregon where he studied
+the heritability of the microbiome in plants and animals. He was awarded his 
+PhD from the University of Oregon in 2022 where he worked with Brendan Bohannan. 
+In his dissertation research, Andrew wanted to understand how variation in
+the composition of microorganisms in an ecosystem influence variation in
+ecosystem function. He was specifically interested in how land-use change could
+modify soil greenhouse gas emissions mediated by the microbiome in diverse
+ecosystems of central Africa and the Brazilian Amazon.
+
+Andrew has broad expertise in environmental and life sciences. He specializes
+in statistical genetics and multivariate analysis of deep sequencing data,
+such as microbiome marker gene and metagenomic sequencing. He also has a 
+background in biodiversity assessment and community ecology. His work draws
+on tools from quantitative genetics and experimental approaches from 
 evolutionary biology. 
 
-Andrew is currently seeking academic and industry positions in ecology, bioinformatics, and data science.

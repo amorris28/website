@@ -23,8 +23,8 @@ interests:
 - Data Science
 name: Andrew Morris
 organizations:
-- name: University of Oregon
-  url: https://uoregon.edu
+- name: University of Oslo
+  url: https://uio.no
 role: Post-doctoral Scholar
 social:
 - icon: envelope

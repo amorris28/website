@@ -51,7 +51,7 @@ user_groups:
 Andrew Morris is a postdoc in the Centre for Bioinformatics at the University
 of Oslo and a member of the Precision Psychiatry group (formerly NORMENT) at
 the Oslo University Hospital. His current work focuses on using health registry
-data and genotypes to model age of diagnosis in prostate cancer and other
+data and genotype data to model age of diagnosis in prostate cancer and other
 heritable cancers. This work has applications in precision medicine and
 has the potential to improve early screening and diagnosis for improved
 outcomes for heritable diseases.

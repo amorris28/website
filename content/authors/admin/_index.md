@@ -27,9 +27,6 @@ organizations:
   url: https://uio.no
 role: Post-doctoral Scholar
 social:
-- icon: envelope
-  icon_pack: fas
-  link: "mailto:andrewmorris@mailbox.org"
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=bFq6ZowAAAAJ

@@ -4,7 +4,7 @@ title: Andrew H. Morris
 first_name: Andrew
 last_name: Morris
 
-bio: Community Ecology.
+bio: Data Science.
 education:
   courses:
   - course: PhD Biology
@@ -18,14 +18,14 @@ education:
     year: 2014
 email: "andrewmorris@mailbox.org"
 interests:
-- Biostatistics
-- Bioinformatics
-- Data Science
+- Statistical Modeling & Predictive Analytics
+- Data Visualization & Storytelling
+- Database Management & ETL Processes
 name: Andrew Morris
 organizations:
 - name: University of Oslo
   url: https://uio.no
-role: Postdoctoral Research Fellow
+role: Data Scientist & Analyst
 social:
 - icon: google-scholar
   icon_pack: ai
@@ -42,27 +42,11 @@ user_groups:
 - Visitors
 ---
 
-Andrew Morris is a postdoc in the Centre for Bioinformatics at the University
-of Oslo and a member of the Precision Psychiatry group (formerly NORMENT) at
-the Oslo University Hospital. His current work focuses on using health registry
-data and genotype data to model age of diagnosis in prostate cancer and other
-heritable cancers. This work has applications in precision medicine and
-has the potential to improve early screening and diagnosis for improved
-outcomes for heritable diseases.
+Andrew Morris is a data scientist with expertise in statistical analysis, data visualization, and large-scale dataset management. Currently a postdoctoral researcher at the University of Oslo's Centre for Precision Psychiatry, he analyzes complex datasets from Norwegian health registries, combining genetic data with electronic health records to develop predictive models for disease onset across tens of thousands of subjects.
 
-Andrew was formerly a postdoc at the University of Oregon where he studied
-the heritability of the microbiome in plants and animals. He was awarded his 
-PhD from the University of Oregon in 2022 where he worked with Brendan Bohannan. 
-In his dissertation research, Andrew wanted to understand how variation in
-the composition of microorganisms in an ecosystem influence variation in
-ecosystem function. He was specifically interested in how land-use change could
-modify soil greenhouse gas emissions mediated by the microbiome in diverse
-ecosystems of central Africa and the Brazilian Amazon.
+With a PhD in Biology and extensive experience in quantitative research, Andrew specializes in transforming raw data into actionable insights through advanced statistical modeling and clear visualizations. He is proficient in R for data manipulation (dplyr), statistical analysis, and creating publication-quality graphics with ggplot2, along with foundational SQL skills for database queries and data extraction.
 
-Andrew has broad expertise in environmental and life sciences. He specializes
-in statistical genetics and multivariate analysis of deep sequencing data,
-such as microbiome marker gene and metagenomic sequencing. He also has a 
-background in biodiversity assessment and community ecology. His work draws
-on tools from quantitative genetics and experimental approaches from 
-evolutionary biology. 
+Andrew's work spans diverse domains including precision medicine, aquaculture systems, and environmental science, where he has successfully collaborated with interdisciplinary teams to translate complex analytical findings for both technical and non-technical stakeholders. His research has contributed to securing over $3 million in funding and has been published in high-impact journals including Nature Microbiology.
+
+He brings a unique combination of rigorous analytical skills, domain expertise in biological systems, and a passion for data-driven decision making. Andrew is currently seeking opportunities as a Data Engineer, Data Scientist, or Data Analyst where he can apply his technical skills to solve real-world business challenges and support data-informed strategies.
 

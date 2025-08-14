@@ -8,13 +8,13 @@
 #  url = "/publication"
 #  weight = 10
   
-[[main]]
-  name = "CV"
-  url = "uploads/Morris_CV.pdf"
-  weight = 30
+#[[main]]
+#  name = "CV"
+#  url = "uploads/Morris_CV.pdf"
+#  weight = 30
 
 [[main]]
-  name = "Resume"
+  name = "CV"
   url = "uploads/Morris_Resume.pdf"
   weight = 40
 

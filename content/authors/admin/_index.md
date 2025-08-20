@@ -18,9 +18,10 @@ education:
     year: 2014
 email: "andrewmorris@mailbox.org"
 interests:
-- Statistical Modeling & Predictive Analytics
-- Data Visualization & Storytelling
-- Database Management & ETL Processes
+- Statistical Modeling & Machine Learning
+- Data Visualization & Communication
+- Data Engineering & Database Management
+- Applied Data Science in Healthcare, Agriculture & Environmental Systems
 name: Andrew Morris
 organizations:
 - name: University of Oslo
@@ -42,11 +43,11 @@ user_groups:
 - Visitors
 ---
 
-Andrew Morris is a data scientist with expertise in statistical analysis, data visualization, and large-scale dataset management. Currently a postdoctoral researcher at the University of Oslo's Centre for Precision Psychiatry, he analyzes complex datasets from Norwegian health registries, combining genetic data with electronic health records to develop predictive models for disease onset across tens of thousands of subjects.
+Andrew Morris is a data scientist with expertise in advanced statistical modeling, predictive analytics, and data visualization. Currently a postdoctoral researcher at the University of Oslo’s Centre for Precision Psychiatry, he develops models using large-scale health registry and genetic data to predict disease onset across tens of thousands of individuals.
 
-With a PhD in Biology and extensive experience in quantitative research, Andrew specializes in transforming raw data into actionable insights through advanced statistical modeling and clear visualizations. He is proficient in R for data manipulation (dplyr), statistical analysis, and creating publication-quality graphics with ggplot2, along with foundational SQL skills for database queries and data extraction.
+With a PhD in Biology and extensive experience in quantitative research, Andrew specializes in turning complex, high-dimensional datasets into actionable insights. He is proficient in R and Python for data wrangling, machine learning, and visualization, complemented by SQL for data extraction and management.
 
-Andrew's work spans diverse domains including precision medicine, aquaculture systems, and environmental science, where he has successfully collaborated with interdisciplinary teams to translate complex analytical findings for both technical and non-technical stakeholders. His research has contributed to securing over $3 million in funding and has been published in high-impact journals including Nature Microbiology.
+His work spans healthcare, aquaculture, and environmental science, where he has collaborated across disciplines to inform both research and real-world decision-making. His research has contributed to securing over $3M in funding and has been published in high-impact journals, including Nature Microbiology.
 
-He brings a unique combination of rigorous analytical skills, domain expertise in biological systems, and a passion for data-driven decision making. Andrew is currently seeking opportunities as a Data Engineer, Data Scientist, or Data Analyst where he can apply his technical skills to solve real-world business challenges and support data-informed strategies.
+Andrew brings a rare combination of rigorous analytical skills, domain expertise in biological systems, and a passion for applying data science to practical challenges. He is seeking opportunities as a Data Scientist or Applied Data Scientist, with openness to Analyst roles in healthcare, agriculture, and environmental domains.
 

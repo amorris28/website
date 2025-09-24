@@ -36,7 +36,7 @@ social:
   link: https://github.com/amorris28
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/andrew-morris-71033a41/
+  link: https://www.linkedin.com/in/ahmorris/
 superuser: true
 user_groups:
 - Researchers

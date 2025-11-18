@@ -3,18 +3,18 @@
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
   
-#[[main]]
-#  name = "Publications"
-#  url = "/publication"
-#  weight = 10
+[[main]]
+  name = "Publications"
+  url = "https://scholar.google.co.uk/citations?user=bFq6ZowAAAAJ"
+  weight = 10
   
-#[[main]]
-#  name = "CV"
-#  url = "uploads/Morris_CV.pdf"
-#  weight = 30
+[[main]]
+  name = "Academic CV"
+  url = "uploads/Morris_CV.pdf"
+  weight = 30
 
 [[main]]
-  name = "CV"
+  name = "CV/Resume"
   url = "uploads/Morris_Resume.pdf"
   weight = 40
 

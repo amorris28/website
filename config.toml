@@ -73,10 +73,10 @@ pagination.pagerSize = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Terminal"
+    title = "Andrew Morris"
 
     [languages.en.params]
-      subtitle = "A simple, retro theme for Hugo"
+      subtitle = ""
       owner = ""
       keywords = ""
       copyright = ""

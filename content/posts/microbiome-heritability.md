@@ -2,7 +2,7 @@
 title: "Estimates of microbiome heritability across hosts"
 date: 2025-11-22
 author: "Andrew"
-description: "Microbiomes contribute to variation in many plant and animal traits, suggesting that microbiome-mediated traits could evolve through selection on the host."
+description: "Microbiomes contribute to variation in many plant and animal traits, suggesting that microbiome-mediated traits could evolve through selection on the host. In this post, I summarize our recent paper on microbiome heritability and highlight its key findings and implications."
 tags: ["research"]
 #cover: "img/micro-herit_400.png"
 #coverCaption: "Mechanisms of microbiome inheritance"

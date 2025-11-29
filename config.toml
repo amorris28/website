@@ -111,6 +111,10 @@ pagination.pagerSize = 5
           identifier = "resume"
           name = "CV/Resume"
           url = "/uploads/morris_resume.pdf"
+        [[languages.en.menu.main]]
+          identifier = "publications"
+          name = "Publications"
+          url = "https://scholar.google.com/citations?user=bFq6ZowAAAAJ"
 
 #[module]
 #  # In case you would like to make changes to the theme and keep it locally in you repository,
